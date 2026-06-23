@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-labelledby="title desc">
+  <title id="title">Planta simplificada da sala de aula</title>
+  <desc id="desc">Ilustração de uma sala medida e reduzida para representação em escala.</desc>
+  <rect width="720" height="520" fill="#e9f0eb"/>
+  <path d="M72 80h512v320H72z" fill="#fffdf8" stroke="#24494c" stroke-width="8"/>
+  <path d="M584 238h68" stroke="#24494c" stroke-width="8" stroke-linecap="round"/>
+  <rect x="112" y="128" width="86" height="56" rx="5" fill="#d7e5dc" stroke="#557a46" stroke-width="4"/>
+  <rect x="230" y="128" width="86" height="56" rx="5" fill="#d7e5dc" stroke="#557a46" stroke-width="4"/>
+  <rect x="348" y="128" width="86" height="56" rx="5" fill="#d7e5dc" stroke="#557a46" stroke-width="4"/>
+  <rect x="112" y="224" width="86" height="56" rx="5" fill="#d7e5dc" stroke="#557a46" stroke-width="4"/>
+  <rect x="230" y="224" width="86" height="56" rx="5" fill="#d7e5dc" stroke="#557a46" stroke-width="4"/>
+  <rect x="348" y="224" width="86" height="56" rx="5" fill="#d7e5dc" stroke="#557a46" stroke-width="4"/>
+  <rect x="100" y="342" width="230" height="28" rx="4" fill="#2f6f73"/>
+  <text x="214" y="362" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#fffdf8">quadro</text>
+  <path d="M72 430h512" stroke="#a85f3f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M72 418v24M584 418v24" stroke="#a85f3f" stroke-width="5" stroke-linecap="round"/>
+  <text x="328" y="470" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#7f452e">8 m no chao = 8 cm no papel</text>
+  <path d="M42 80v320" stroke="#3e6d9c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M30 80h24M30 400h24" stroke="#3e6d9c" stroke-width="5" stroke-linecap="round"/>
+  <text x="26" y="260" transform="rotate(-90 26 260)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#315c84">6 m = 6 cm</text>
+</svg>
